@@ -2,7 +2,7 @@
 Data : https://www.kaggle.com/datasets/salader/dogs-vs-cats
  <h1> Kegal Work </h1>
  1. First open the path mentioned up
- 2. Go to profile and then go to account then scroll down to create token under API
+ 2. Go to profile and then go to account then scroll down to create token under API (keggal.json)
  3. Create it and upload it over driver
  4. run 
    ! mkdir -p ~/.kaggle
@@ -17,7 +17,7 @@ Data : https://www.kaggle.com/datasets/salader/dogs-vs-cats
 
 
 <H1>Conver images to 256, 256 pxl </H1>
--Converted both train and test data set those were provided by keggal
+- Converted both train and test data set those were provided by keggal
 - Normalized all of them to 1 and 0 by deviding by 256
 
 <h1>CNN Model</h1>
