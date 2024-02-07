@@ -16,7 +16,7 @@ Data : https://www.kaggle.com/datasets/salader/dogs-vs-cats
     zip_ref.close()
 
 
-<H1>Conver images to 256, 256 pxl </H1>
+<H1>Converted images to 256, 256 pxl </H1>
 <h6>Converted both train and test data set those were provided by keggal</h6>
 <h6>Normalized all of them to 1 and 0 by deviding by 256</h6>
 
