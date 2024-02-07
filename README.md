@@ -17,12 +17,12 @@ Data : https://www.kaggle.com/datasets/salader/dogs-vs-cats
 
 
 <H1>Conver images to 256, 256 pxl </H1>
-- Converted both train and test data set those were provided by keggal
-- Normalized all of them to 1 and 0 by deviding by 256
+<h6>Converted both train and test data set those were provided by keggal</h6>
+<h6>Normalized all of them to 1 and 0 by deviding by 256</h6>
 
 <h1>CNN Model</h1>
--- Created 6 layered model 3 were convuluted and 3 ann with batch normalization and dropout 
--- used padding valid and filter size 3,3 for and used max pooling with 2,2 shape
+<h6>-- Created 6 layered model 3 were convuluted and 3 ann with batch normalization and dropout</h6> 
+<h6>-- used padding valid and filter size 3,3 for and used max pooling with 2,2 shape</h6>
 
 <h1>Result gave 83% accuracy with Test Data</h1>
 
